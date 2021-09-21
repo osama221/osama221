@@ -1,5 +1,8 @@
 ### Hi there 👋
+# My name is osama Gad from Egypt and work as a DevOps engineer and have the following skills if u need help.
 
+## Skills: Docker, kubernetes, ansible, AWS, MCSA, CCNA, CCNP, RedHat, linux admin3 
+## programming lang and web: Python, shell scripting, php, html, css, javascript, yaml, json.
 <!--
 **osama221/osama221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
